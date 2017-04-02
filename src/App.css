@@ -1,0 +1,79 @@
+.redText {
+  color: red;
+}
+.my-header{
+  background-color: #adb5bd;
+  padding: 32px;
+}
+.logo {
+	width: 32px;
+	height: 32px;
+	margin-right: 12px;
+}
+.my-title {
+	color: white;
+	padding: 0px;
+	margin: 0px;
+
+}
+.my-table {
+	background-color: #fff;
+	margin-top: 16px;
+	padding: 16px 16px 0px 16px;
+	color: #505050;
+	font-weight: 400;
+
+}
+.my-content {
+	padding: 32px;
+  	background-color: #f1f1f1;
+
+}
+.add-form {
+	background-color: #fff;
+	padding: 16px;
+}
+.content-header {
+	color: #757575;
+}
+.my-style {
+  width: 976px;
+  margin: 0 auto;
+  background-color: #f1f1f1;
+}
+.input-name {
+	width: 180px;
+}
+.input-email {
+	width: 260px;
+}
+.input-number {
+	width: 180px;
+}
+table {
+	table-layout: fixed;
+	max-width: 880px;
+	width: 880px;
+}
+th, td {
+	padding: 16px;
+	text-align: left;
+	border-bottom: 1px solid #eee;
+}
+input {
+	height: 35px;
+	margin-right: 16px;
+	padding: 5px;
+	font-size: 16px;
+}
+button {
+	height: 40px;
+	float: right;
+	min-width: 50px;
+}
+body {
+  font-size: 16px;
+}
+col {
+	width: 25%;
+}
